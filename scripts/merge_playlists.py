@@ -1,4 +1,4 @@
-﻿import os
+import os
 import re
 import requests
 from datetime import datetime
@@ -58,7 +58,8 @@ class Merger:
     def key(self, ch):
         if ch['id']:
             return f"id:{ch['id'].lower()}"
-        return f"name:{re.sub(r'\s+', ' ', ch['name'].lower().strip())}"
+        clean = re.sub(r'\s+', ' ', ch['name'].lower().strip())
+        return "name:" + clean
 
     def merge(self, all_ch):
         for ch in all_ch:
