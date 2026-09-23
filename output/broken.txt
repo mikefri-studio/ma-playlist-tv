@@ -1,150 +1,150 @@
 # Flux cassés (153)
-# Date: 2026-09-23T20:21:50.548728
+# Date: 2026-09-23T23:29:08.340769
 
 # HTTP 403
 TV5MONDE FBSM - https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 # HTTP 403
-TMC - https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTA1LjM2IiwiY21jZCI6IiIsImV4cCI6MTc4MDc0ODI5OCwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3ODA3MzM4OTgsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNDRmY2IxYzc3NjI4NGYyZGE3YzExZWY5NDhkN2VmMzQvdG1jLWNtYWYiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.Vjef493kGPqYaBy-6_874seveaOl-RwXDoZc9aJeR0E/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
-# HTTP 403
 TF1 - https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjgiLCJjbWNkIjoiIiwiZXhwIjoxNzg0MDQyMzU4LCJnaWQiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiIsImlhdCI6MTc4NDAyNzk1OCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL3Byb2QvVEYxL2NtYWYvb3V0Iiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.guXEzaByDrfGQzirSrm7N3ONiaiz-evEgnKQHsTSVW4/prod/TF1/cmaf/out/TF1.m3u8
+# HTTP 403
+TMC - https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTA1LjM2IiwiY21jZCI6IiIsImV4cCI6MTc4MDc0ODI5OCwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3ODA3MzM4OTgsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNDRmY2IxYzc3NjI4NGYyZGE3YzExZWY5NDhkN2VmMzQvdG1jLWNtYWYiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.Vjef493kGPqYaBy-6_874seveaOl-RwXDoZc9aJeR0E/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
 # Connexion refusée
 TIJI - https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-# HTTP 403
-BFM TV - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 # HTTP 404
 B SMART - https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
-# HTTP 404
-SONY ONE SERIES THRILLER - https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
-# HTTP 404
-SONY ONE SERIES COMEDIES - https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
 # HTTP 404
 LE MÉDIA TV - https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
 # HTTP 404
 LCP-AN 24H - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcp1.m3u8
-# Connexion refusée
-MUSEUM TV - https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/master.m3u8
+# HTTP 404
+SONY ONE SERIES COMEDIES - https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
 # HTTP 400
 MOTORVISION TV - https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+# HTTP 403
+BFM TV - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+# Connexion refusée
+MUSEUM TV - https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/master.m3u8
+# HTTP 404
+SONY ONE SERIES THRILLER - https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
 # HTTP 404
 MAISON & TRAVAUX - https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
-# HTTP 400
-KTO - https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 # HTTP 403
 BFM TV 2 - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
 # HTTP 403
 BFM TV GRANDS REPORTAGES - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 # HTTP 403
 BFM BUSINESS - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+# HTTP 400
+KTO - https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 # HTTP 404
 FRANCE 3 ALPES - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/falp.m3u8
-# HTTP 404
-FRANCE 3 ALSACE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fals.m3u8
-# HTTP 400
-TOP SANTÉ - https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
 # HTTP 403
 TECH&CO - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 # HTTP 404
-FRANCE 3 AUVERGNE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fauv.m3u8
-# HTTP 404
 FRANCE 3 AQUITAINE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/faqt.m3u8
 # HTTP 404
-FRANCE 3 BASSE NORMANDIE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbnr.m3u8
+FRANCE 3 ALSACE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fals.m3u8
 # HTTP 404
 FRANCE 3 BOURGOGNE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbog.m3u8
+# HTTP 404
+FRANCE 3 AUVERGNE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fauv.m3u8
+# HTTP 404
+FRANCE 3 BASSE NORMANDIE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbnr.m3u8
 # HTTP 504
 CLUBBING TV - https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 # HTTP 404
 FRANCE 3 BRETAGNE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbre.m3u8
-# HTTP 404
-FRANCE 3 CHAMPAGNE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fchg.m3u8
+# HTTP 400
+TOP SANTÉ - https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
 # HTTP 404
 FRANCE 3 CENTRE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fctr.m3u8
 # HTTP 404
+FRANCE 3 LANGUEDOC - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fldr.m3u8
+# HTTP 404
 FRANCE 3 CÔTE D'AZUR - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpca.m3u8
+# HTTP 404
+FRANCE 3 CHAMPAGNE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fchg.m3u8
 # HTTP 404
 FRANCE 3 CORSE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fcrs.m3u8
 # HTTP 404
-FRANCE 3 HAUTE NORMANDIE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fhnr.m3u8
+FRANCE 3 LORRAINE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flor.m3u8
 # HTTP 404
 FRANCE 3 FRANCHE COMTÉ - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/ffrc.m3u8
 # HTTP 404
-FRANCE 3 LANGUEDOC - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fldr.m3u8
-# HTTP 404
-FRANCE 3 LORRAINE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flor.m3u8
+FRANCE 3 LIMOUSIN - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flms.m3u8
 # HTTP 404
 FRANCE 3 NORD PAS DE CALAIS - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdc.m3u8
 # HTTP 404
-FRANCE 3 LIMOUSIN - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flms.m3u8
+FRANCE 3 HAUTE NORMANDIE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fhnr.m3u8
 # HTTP 404
 FRANCE 3 PARIS IDF - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fidf.m3u8
 # HTTP 404
-FRANCE 3 MIDI PYRÉNÉES - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fmpr.m3u8
-# HTTP 404
 FRANCE 3 PAYS DE LOIRE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdl.m3u8
-# HTTP 404
-FRANCE 3 PICARDIE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpcd.m3u8
-# HTTP 404
-FRANCE 3 POITOU CHARENTE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpch.m3u8
 # HTTP 404
 FRANCE 3 PROVENCE ALPES - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpra.m3u8
 # HTTP 404
+FRANCE 3 MIDI PYRÉNÉES - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fmpr.m3u8
+# HTTP 404
+FRANCE 3 POITOU CHARENTE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpch.m3u8
+# HTTP 404
 FRANCE 3 NOA - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fnoa.m3u8
+# HTTP 404
+FRANCE 3 PICARDIE - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpcd.m3u8
 # HTTP 404
 FRANCE 3 RHÔNE ALPES - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frha.m3u8
 # HTTP 403
 L'ÉSPRIT SORCIER TV - https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
-# HTTP 500
-SQOOL TV - https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
 # HTTP 403
 BFM LYON - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
 # HTTP 403
 BFM GRAND LILLE - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
 # HTTP 403
-BFM GRAND LITTORAL - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
+BFM NICE COTE D'AZUR - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 # HTTP 403
 BFM MARSEILLE PROVENCE - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
 # HTTP 403
+BFM TOULON VAR - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+# HTTP 403
+BFM GRAND LITTORAL - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
+# HTTP 403
 BFM DICI ALPES DU SUD - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 # HTTP 403
-BFM NICE COTE D'AZUR - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-# HTTP 403
-BFM TOULON VAR - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+BFM ALSACE - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
 # HTTP 403
 BFM DICI HAUTE PROVENCE - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
 # HTTP 403
 BFM NORMANDIE - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
-# HTTP 403
-BFM ALSACE - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
+# HTTP 400
+RTL TVI - https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+# HTTP 404
+RTL CLUB - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
 # Connexion refusée
 WÉO PICARDIE - https://live-weo.digiteka.com/1189023466/index.m3u8
 # HTTP 404
 RTL PLAY - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtlplay.m3u8
 # HTTP 404
-RTL CLUB - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
-# HTTP 404
 RTL PLUG - https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/plugrtl.m3u8
-# HTTP 400
-RTL TVI - https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 # Connexion refusée
 TV VENDÉE - https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
+# HTTP 500
+SQOOL TV - https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
 # HTTP 404
 TV 78 - https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 # HTTP 404
 FailArmy - https://jmp2.uk/stvp-FRBA33000234L
 # HTTP 404
 People Are Awesome - https://jmp2.uk/stvp-FRBA10000029E
+# HTTP 403
+Beyblade - https://jmp2.uk/stvp-FR1400001VU
 # HTTP 404
 H2O & Friends - https://jmp2.uk/stvp-FR500003PJ
 # HTTP 403
-Beyblade - https://jmp2.uk/stvp-FR1400001VU
+BBC Series - https://jmp2.uk/stvp-FR2900001UF
 # HTTP 403
 Rookie Blue - https://jmp2.uk/stvp-FR2100001VM
 # HTTP 403
-BBC Series - https://jmp2.uk/stvp-FR2900001UF
+Un Village Français - https://jmp2.uk/stvp-FRBC39000050N
 # HTTP 404
 Stormcast Novelas - https://jmp2.uk/stvp-FRBA3300031ZC
-# HTTP 403
-Un Village Français - https://jmp2.uk/stvp-FRBC39000050N
 # HTTP 403
 Mayday: Catastrophe Aérienne - https://jmp2.uk/stvp-FR400000413
 # HTTP 404
@@ -158,35 +158,21 @@ Tennis Channel - https://jmp2.uk/stvp-FR5000002SW
 # HTTP 404
 Motor Racing - https://jmp2.uk/stvp-FRBD4100013LN
 # HTTP 404
-Wonderland Kids TV - https://jmp2.uk/stvp-FR1800002C4
-# HTTP 404
 LooLoo Kids - https://jmp2.uk/stvp-FR5000001UH
+# HTTP 404
+Wonderland Kids TV - https://jmp2.uk/stvp-FR1800002C4
 # HTTP 404
 Masha et Michka - https://jmp2.uk/stvp-FR38000024W
 # HTTP 404
 Action Totale - https://jmp2.uk/stvp-FR220000105
 # HTTP 404
 Wild Side TV - https://jmp2.uk/stvp-FRBA3300021ME
-# Timeout
-6TER - https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-# Timeout
-M6 - https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-# Timeout
-TF1 SERIES FILMS - https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-# Timeout
-TFX - https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
-# Timeout
-W9 - https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
-# Timeout
-NOVO 19 - https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 # HTTP 403
 Moviesphere - https://jmp2.uk/stvp-FR42000023H
 # HTTP 403
 6ter (1080p) - http://145.239.5.177/314/index.m3u8
 # HTTP 403
 AB1 (720p) - http://145.239.5.177/332/index.m3u8
-# HTTP 403
-like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",M6 HD (1080p) - http://99.27.51.147:8080/M6/index.m3u8
 # HTTP 403
 arte (France) (720p) - http://145.239.5.177/300/index.m3u8
 # HTTP 403
@@ -195,66 +181,74 @@ C Star (1080p) - http://145.239.5.177/361/index.m3u8
 RTL9 (720p) - http://145.239.5.177/308/index.m3u8
 # HTTP 403
 W9 (1080p) - https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
-# Timeout
-INFOSPORT+ - http://212.102.60.80/Infosport/index.m3u8
-# HTTP 403
-France 5 (720p) - http://145.239.5.177/305/index.m3u8
 # Connexion refusée
 TeleGohelle - https://videas.agglo-lenslievin.fr/index.m3u8
-# Connexion refusée
-ViaOccitanie (540p) [Not 24/7] - https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+# HTTP 403
+France 5 (720p) - http://145.239.5.177/305/index.m3u8
 # HTTP 403
 like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="General",BFM Alsace (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
+# Timeout
+TFX - https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+# Timeout
+M6 - https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+# Timeout
+TF1 SERIES FILMS - https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+# Timeout
+6TER - https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 # HTTP 403
 Moselle TV (720p) [Not 24/7] - https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+# Connexion refusée
+ViaOccitanie (540p) [Not 24/7] - https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+# Timeout
+W9 - https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+# Timeout
+NOVO 19 - https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+# HTTP 403
+TV5Monde France Belgium Switzerland Monaco - http://5.78.65.164/TV5Monde/index.m3u8
 # HTTP 403
 TV5Monde Info (1080p) [Geo-blocked] - https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 # HTTP 403
 LCI HD (1080p) - http://145.239.5.177/368/index.m3u8
 # HTTP 403
-TV5Monde France Belgium Switzerland Monaco - http://5.78.65.164/TV5Monde/index.m3u8
-# HTTP 403
 like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Cote d'Azur (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
 # HTTP 403
 like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM DICI Alpes du Sud (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
 # HTTP 403
-like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM DICI Haute-Provence (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
+like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Grand Lille (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
+# Timeout
+INFOSPORT+ - http://212.102.60.80/Infosport/index.m3u8
 # HTTP 403
-like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Marseille (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
+like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM DICI Haute-Provence (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
 # HTTP 403
 like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Lyon (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
 # HTTP 403
-like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Grand Lille (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
-# HTTP 403
 like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Grand Littoral (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
+# HTTP 403
+like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Marseille (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
+# HTTP 403
+like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Var (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 # HTTP 403
 like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM TV (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 # HTTP 403
 like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Normandie (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
 # HTTP 403
-like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM Var (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
+Serie Club (720p) - http://145.239.5.177/355/index.m3u8
+# HTTP 403
+TiVi5 Monde [Geo-blocked] - https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 # HTTP 403
 like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="Business;News",BFM Business (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
 # HTTP 403
 like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News;Science",BFM Tech & Co (1080p) - https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 # HTTP 403
-ILTV (720p) - https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-# HTTP 403
-TiVi5 Monde [Geo-blocked] - https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-# HTTP 403
-Serie Club (720p) - http://145.239.5.177/355/index.m3u8
+TFX (720p) - http://145.239.5.177/315/index.m3u8
 # HTTP 403
 Teva (1080p) - http://145.239.5.177/356/index.m3u8
 # HTTP 403
-TFX (720p) - http://145.239.5.177/315/index.m3u8
-# HTTP 403
 TV Breizh (1080p) - http://145.239.5.177/318/index.m3u8
 # HTTP 403
+ILTV (720p) - https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+# HTTP 403
 Cine+ Emotion (720p) - http://145.239.5.177/337/index.m3u8
-# HTTP 404
-TV78 (720p) - https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-# HTTP 404
-TVR (France) (720p) - https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 # HTTP 403
 Nollywood TV (720p) - http://145.239.5.177/148/index.m3u8
 # HTTP 403
@@ -262,27 +256,29 @@ Foot+ - http://145.239.5.177/556a/index.m3u8
 # HTTP 403
 Cap Terre (1080p) - http://145.239.5.177/359a/index.m3u8
 # HTTP 403
-M6 Music (720p) - http://145.239.5.177/320/index.m3u8
-# HTTP 403
 like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",RMC Sport 1 - https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
+# HTTP 404
+TV78 (720p) - https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+# HTTP 404
+TVR (France) (720p) - https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+# HTTP 403
+M6 Music (720p) - http://145.239.5.177/320/index.m3u8
 # Connexion refusée
 NRJ Hits - https://test.946985.filegear-sg.me/proxy/a23981548880f405
-# HTTP 504
-Clubbing TV France - https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 # HTTP 404
 like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Canal+ Sport 360 - https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
+# HTTP 504
+Clubbing TV France - https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+# HTTP 403
+KTO (504p) - http://145.239.5.177/354/index.m3u8
 # Connexion refusée
 Museum TV French [Geo-blocked] - https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
 # HTTP 403
-KTO (504p) - http://145.239.5.177/354/index.m3u8
-# HTTP 502
-TV5Monde Style - http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+France 4 HD (1080p) - https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
 # HTTP 403
 RMC Life (1080p) - http://145.239.5.177/333/index.m3u8
-# HTTP 403
-France 4 HD (1080p) - https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
-# HTTP 404
-Monte Carlo Digital Television (1080p) - https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
+# HTTP 502
+TV5Monde Style - http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 # HTTP 504
 FashionTV Europe (1080p) - https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 # HTTP 400
@@ -290,11 +286,13 @@ FilmRise Hot Ones (720p) - https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3
 # HTTP 504
 Rakuten TV Films Français (720p) - https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8
 # HTTP 504
-Motorracing France - https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
-# HTTP 504
 Revry News Europe (Frequency backend) - https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/playlist.m3u8
 # HTTP 504
+Motorracing France - https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
+# HTTP 504
 Zee One - https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8
+# Timeout
+like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",MTV (France) - http://99.27.51.147:8080/MTV/index.m3u8
 # Timeout
 like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",France 3 - http://85.14.32.26:8800/udp/239.100.10.144:5000
 # Timeout
@@ -303,6 +301,8 @@ Le Figaro TV Ile-de-France (1080p) - https://figarotv-live.freecaster.com/live/f
 like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Syfy - http://99.27.51.147:8080/SYFY/index.m3u8
 # Timeout
 like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic - http://99.27.51.147/CineClassic/index.m3u8
+# Timeout
+like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Frisson (1080p) - http://99.27.51.147:8080/CineFrisson/index.m3u8
 # Timeout
 TZiK [Not 24/7] - https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 # Timeout
