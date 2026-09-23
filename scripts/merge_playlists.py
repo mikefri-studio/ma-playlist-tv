@@ -1,14 +1,17 @@
-import os
+﻿import os
 import re
 import requests
 from datetime import datetime
 from urllib.parse import urlparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 os.makedirs('output', exist_ok=True)
 
 class Merger:
     def __init__(self):
         self.sources, self.channels = [], {}
+        self.broken = []
+        self.timeout = 15
 
     def load(self):
         with open('sources.txt', 'r', encoding='utf-8-sig') as f:
@@ -57,7 +60,7 @@ class Merger:
 
     def key(self, ch):
         if ch['id']:
-            return f"id:{ch['id'].lower()}"
+            return "id:" + ch['id'].lower()
         clean = re.sub(r'\s+', ' ', ch['name'].lower().strip())
         return "name:" + clean
 
@@ -73,6 +76,67 @@ class Merger:
                 if not e['id'] and ch['id']:
                     self.channels[k]['id'] = ch['id']
         print(f"Chaines uniques: {len(self.channels)}")
+
+    # ====== NOUVEAU : test des flux ======
+    def check_stream(self, ch):
+        """Teste si un flux est accessible. Retourne (channel, ok, reason)"""
+        url = ch['url']
+        try:
+            # D'abord un HEAD (rapide)
+            r = requests.head(url, timeout=self.timeout,
+                             headers={'User-Agent': 'Mozilla/5.0'},
+                             allow_redirects=True)
+            # Si HEAD ne marche pas, essayer un GET limité
+            if r.status_code >= 400:
+                r = requests.get(url, timeout=self.timeout,
+                                headers={'User-Agent': 'Mozilla/5.0'},
+                                stream=True)
+                # Ne pas télécharger tout le flux, juste vérifier
+                r.close()
+            if r.status_code >= 400:
+                return ch, False, f"HTTP {r.status_code}"
+            # Vérifier le Content-Type (doit être vidéo ou m3u8)
+            ct = r.headers.get('content-type', '').lower()
+            valid_ct = any(x in ct for x in ['video', 'mpegurl', 'application/vnd.apple.mpegurl', 'octet-stream'])
+            if not valid_ct and ct:
+                # Certains serveurs ne renvoient pas de CT correct, on accepte quand même
+                pass
+            return ch, True, "OK"
+        except requests.exceptions.Timeout:
+            return ch, False, "Timeout"
+        except requests.exceptions.ConnectionError:
+            return ch, False, "Connexion refusée"
+        except Exception as e:
+            return ch, False, str(e)[:50]
+
+    def verify_streams(self):
+        """Teste tous les flux en parallèle"""
+        print(f"\n=== TEST DES {len(self.channels)} FLUX ===")
+        valid = {}
+        items = list(self.channels.items())
+        
+        with ThreadPoolExecutor(max_workers=25) as executor:
+            futures = {executor.submit(self.check_stream, ch): k for k, ch in items}
+            done = 0
+            for future in as_completed(futures):
+                ch, ok, reason = future.result()
+                k = futures[future]
+                done += 1
+                status = "OK" if ok else "KO"
+                print(f"[{done}/{len(items)}] {status} {ch['name'][:30]:30} {reason if not ok else ''}")
+                if ok:
+                    valid[k] = ch
+                else:
+                    self.broken.append({
+                        'name': ch['name'],
+                        'url': ch['url'],
+                        'reason': reason
+                    })
+        
+        print(f"\n=== RESULTAT ===")
+        print(f"✅ Flux OK: {len(valid)}")
+        print(f"❌ Flux HS: {len(self.broken)}")
+        self.channels = valid
 
     def generate(self):
         os.makedirs('output', exist_ok=True)
@@ -93,6 +157,15 @@ class Merger:
                 e += f' tvg-chno="{i}",{ch["name"]}'
                 f.write(f'{e}\n{ch["url"]}\n')
         print(f"Output: {len(s)} chaines -> output/france-clean.m3u")
+        
+        # Sauvegarder aussi la liste des flux cassés
+        if self.broken:
+            with open('output/broken.txt', 'w', encoding='utf-8') as f:
+                f.write(f"# Flux cassés ({len(self.broken)})\n")
+                f.write(f"# Date: {datetime.now().isoformat()}\n\n")
+                for b in self.broken:
+                    f.write(f"# {b['reason']}\n{b['name']} - {b['url']}\n")
+            print(f"Broken: {len(self.broken)} flux -> output/broken.txt")
 
     def run(self):
         self.load()
@@ -102,8 +175,9 @@ class Merger:
             if c:
                 all_ch.extend(self.parse(c))
         self.merge(all_ch)
+        self.verify_streams()  # <-- LE TEST DES FLUX
         self.generate()
-        print("Done!")
+        print("\nDone!")
 
 if __name__ == '__main__':
     Merger().run()
