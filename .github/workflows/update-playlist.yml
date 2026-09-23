@@ -1,0 +1,20 @@
+﻿name: Update Playlist
+on:
+  schedule:
+    - cron: '0 */10 * * *'
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - run: pip install requests
+    - run: python scripts/merge_playlists.py
+    - run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add output/
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update $(date)" && git push)

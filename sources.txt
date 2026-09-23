@@ -1,0 +1,3 @@
+﻿https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/fr.m3u8
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/France/LiveTV.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/fr_rakuten.m3u
