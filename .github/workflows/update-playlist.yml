@@ -1,8 +1,8 @@
-﻿name: Update Playlist
+name: Update Playlist
 
 on:
   schedule:
-    - cron: '0 */10 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
