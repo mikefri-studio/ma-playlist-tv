@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-02T21:59:32.243186
+# Generated: 2026-10-03T04:33:27.537224
 # Total: 426
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT" tvg-chno="1",FRANCE 2
@@ -576,22 +576,22 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 #EXTINF:-1 group-title="Autres" tvg-chno="287",Homicide la chaîne du fait divers (1080p)
 https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="Undefined" tvg-chno="288",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Autres" tvg-chno="289",INA 70s (1080p)
+#EXTINF:-1 group-title="Autres" tvg-chno="288",INA 70s (1080p)
 https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8
-#EXTINF:-1 group-title="Autres" tvg-chno="290",INA Ardivision (1080p)
+#EXTINF:-1 group-title="Autres" tvg-chno="289",INA Ardivision (1080p)
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8
-#EXTINF:-1 group-title="Autres" tvg-chno="291",ITV Un Village Français (1080p)
+#EXTINF:-1 group-title="Autres" tvg-chno="290",ITV Un Village Français (1080p)
 https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pLv0T3D.png" group-title="Kids;Series" tvg-chno="292",Inazuma Eleven
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLv0T3D.png" group-title="Kids;Series" tvg-chno="291",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary" tvg-chno="293",Into Crime (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary" tvg-chno="292",Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" group-title="Series" tvg-chno="294",Investigation by Pluto TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" group-title="Series" tvg-chno="293",Investigation by Pluto TV
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="Sports" tvg-chno="295",Kozoom TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="Sports" tvg-chno="294",Kozoom TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="General" tvg-chno="295",Le Figaro TV Ile-de-France (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 group-title="Autres" tvg-chno="296",Le Meilleur d'Arthur (1080p)
 https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Autres" tvg-chno="297",Le Meilleur de la TV Realite (1080p)
