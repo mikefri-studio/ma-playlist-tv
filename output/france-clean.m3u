@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated: 2026-10-16T11:01:09.348222
-# Total: 408
+# Generated: 2026-10-16T16:21:04.418480
+# Total: 409
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT" tvg-chno="1",FRANCE 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france2.m3u8
@@ -80,22 +80,22 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france24
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCTALKINFOcoul.png" group-title="Informations Françaises" tvg-chno="39",RMC TALK INFO
 https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/equidia-fr.png" group-title="Sport Thématique" tvg-chno="40",ÉQUIDIA
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport" tvg-chno="40",INFOSPORT+
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/equidia-fr.png" group-title="Sport Thématique" tvg-chno="41",ÉQUIDIA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live2.m3u8
-#EXTINF:-1 tvg-id="TRACESportStars.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-sport-stars-fr.png" group-title="Sport Thématique" tvg-chno="41",TRACE SPORTS STARS
+#EXTINF:-1 tvg-id="TRACESportStars.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-sport-stars-fr.png" group-title="Sport Thématique" tvg-chno="42",TRACE SPORTS STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://freebox.cdn.scw.iliad.fr/large_logo_afterfoot_TV_fondblanc_83130699dd.png" group-title="Sport Thématique" tvg-chno="42",AFTER FOOT TV
+#EXTINF:-1 tvg-logo="https://freebox.cdn.scw.iliad.fr/large_logo_afterfoot_TV_fondblanc_83130699dd.png" group-title="Sport Thématique" tvg-chno="43",AFTER FOOT TV
 https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
-#EXTINF:-1 group-title="Sport Thématique" tvg-chno="43",FRANCE TV SPORT
+#EXTINF:-1 group-title="Sport Thématique" tvg-chno="44",FRANCE TV SPORT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
-#EXTINF:-1 group-title="Sport Thématique" tvg-chno="44",JOURNAL DU GOLF TV
+#EXTINF:-1 group-title="Sport Thématique" tvg-chno="45",JOURNAL DU GOLF TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/jdg-tv.m3u8
-#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/sport-en-france-fr.png" group-title="Sport Thématique" tvg-chno="45",SPORT EN FRANCE
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/sport-en-france-fr.png" group-title="Sport Thématique" tvg-chno="46",SPORT EN FRANCE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="Sport Thématique" tvg-chno="46",TENNIS CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="Sport Thématique" tvg-chno="47",TENNIS CHANNEL
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/tennis-channel.m3u8
-#EXTINF:-1 tvg-id="LEspritSorcier.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_220_Esprit_sorcier_alpha_orange_800x400_8e6009c26d.png" group-title="Découverte" tvg-chno="47",L'ÉSPRIT SORCIER TV
-https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="FranceTVDocs.fr" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Découverte" tvg-chno="48",FRANCE TV DOCS
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/docs.m3u8
 #EXTINF:-1 tvg-id="RMCMecanic.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMECANICcoul.png" group-title="Style de vie/Pratique" tvg-chno="49",RMC MECANIC
@@ -810,11 +810,13 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Sports" tvg-chno="404",like Gecko) Chrome/133.0.0.0 Safari/537.36" group-title="Sports",L'Equipe (1080p)
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids" tvg-chno="405",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment" tvg-chno="405",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",M6 HD (1080p)
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids" tvg-chno="406",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
 http://99.27.51.147:8080/Gulli/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News" tvg-chno="406",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="News",Franceinfo (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News" tvg-chno="407",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="News",Franceinfo (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General" tvg-chno="407",viaTelePaese (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General" tvg-chno="408",viaTelePaese (720p)
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:-1 tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General" tvg-chno="408",zenith (1080p)
+#EXTINF:-1 tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General" tvg-chno="409",zenith (1080p)
 https://live.azenagroup.com/zenith/index.ll.m3u8
