@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated: 2026-10-18T15:37:06.976959
-# Total: 409
+# Generated: 2026-10-18T20:20:24.542539
+# Total: 410
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT" tvg-chno="1",FRANCE 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france2.m3u8
@@ -812,11 +812,13 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment" tvg-chno="405",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",M6 HD (1080p)
 http://99.27.51.147:8080/M6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids" tvg-chno="406",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png" group-title="General" tvg-chno="406",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",France 3
+http://85.14.32.26:8800/udp/239.100.10.144:5000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids" tvg-chno="407",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
 http://99.27.51.147:8080/Gulli/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News" tvg-chno="407",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="News",Franceinfo (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News" tvg-chno="408",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="News",Franceinfo (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General" tvg-chno="408",viaTelePaese (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General" tvg-chno="409",viaTelePaese (720p)
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:-1 tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General" tvg-chno="409",zenith (1080p)
+#EXTINF:-1 tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General" tvg-chno="410",zenith (1080p)
 https://live.azenagroup.com/zenith/index.ll.m3u8
