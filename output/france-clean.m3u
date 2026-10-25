@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated: 2026-10-25T11:00:21.423682
-# Total: 444
+# Generated: 2026-10-25T15:48:56.239433
+# Total: 443
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT" tvg-chno="1",FRANCE 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france2.m3u8
@@ -642,22 +642,22 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 #EXTINF:-1 group-title="Autres" tvg-chno="320",Homicide la chaîne du fait divers (1080p)
 https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="Undefined" tvg-chno="321",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Autres" tvg-chno="322",INA Ardivision (1080p)
+#EXTINF:-1 group-title="Autres" tvg-chno="321",INA Ardivision (1080p)
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8
-#EXTINF:-1 group-title="Autres" tvg-chno="323",ITV Un Village Français (1080p)
+#EXTINF:-1 group-title="Autres" tvg-chno="322",ITV Un Village Français (1080p)
 https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pLv0T3D.png" group-title="Kids;Series" tvg-chno="324",Inazuma Eleven
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLv0T3D.png" group-title="Kids;Series" tvg-chno="323",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary" tvg-chno="325",Into Crime (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary" tvg-chno="324",Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" group-title="Series" tvg-chno="326",Investigation by Pluto TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" group-title="Series" tvg-chno="325",Investigation by Pluto TV
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="Sports" tvg-chno="327",Kozoom TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="Sports" tvg-chno="326",Kozoom TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Legislative" tvg-chno="328",LCP (477p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Legislative" tvg-chno="327",LCP (477p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="General" tvg-chno="328",Le Figaro TV Ile-de-France (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 group-title="Autres" tvg-chno="329",Le Meilleur d'Arthur (1080p)
 https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Autres" tvg-chno="330",Le Meilleur de la TV Realite (1080p)
@@ -878,15 +878,13 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Sports" tvg-chno="438",like Gecko) Chrome/133.0.0.0 Safari/537.36" group-title="Sports",L'Equipe (1080p)
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment" tvg-chno="439",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",M6 HD (1080p)
-http://99.27.51.147:8080/M6/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png" group-title="General" tvg-chno="440",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",France 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png" group-title="General" tvg-chno="439",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",France 3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids" tvg-chno="441",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids" tvg-chno="440",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
 http://99.27.51.147:8080/Gulli/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News" tvg-chno="442",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="News",Franceinfo (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News" tvg-chno="441",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="News",Franceinfo (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General" tvg-chno="443",viaTelePaese (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General" tvg-chno="442",viaTelePaese (720p)
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:-1 tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General" tvg-chno="444",zenith (1080p)
+#EXTINF:-1 tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General" tvg-chno="443",zenith (1080p)
 https://live.azenagroup.com/zenith/index.ll.m3u8
