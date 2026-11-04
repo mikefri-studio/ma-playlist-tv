@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated: 2026-11-04T10:39:50.296963
-# Total: 447
+# Generated: 2026-11-04T19:33:24.852847
+# Total: 446
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT" tvg-chno="1",FRANCE 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france2.m3u8
@@ -890,9 +890,7 @@ http://99.27.51.147:8080/M6/index.m3u8
 http://85.14.32.26:8800/udp/239.100.10.144:5000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids" tvg-chno="444",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
 http://99.27.51.147:8080/Gulli/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="Movies" tvg-chno="445",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic
-http://99.27.51.147/CineClassic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General" tvg-chno="446",viaTelePaese (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General" tvg-chno="445",viaTelePaese (720p)
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:-1 tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General" tvg-chno="447",zenith (1080p)
+#EXTINF:-1 tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General" tvg-chno="446",zenith (1080p)
 https://live.azenagroup.com/zenith/index.ll.m3u8
